@@ -1,8 +1,8 @@
 # Sistema de gestion-empleado
 
-    Este proyecto implementa un sistema de gestión de empleados que permite crear y gestionar diferentes tipos de empleados como Desarrolladores, Diseñadores, y Gerentes. 
-    Cada tipo de empleado tiene un bono diferente sobre su salario base y un método específico para calcular su salario final.
-    
+Este proyecto implementa un sistema de gestión de empleados que permite crear y gestionar diferentes tipos de empleados como Desarrolladores, Diseñadores, y Gerentes. 
+Cada tipo de empleado tiene un bono diferente sobre su salario base y un método específico para calcular su salario final.
+
 ## Estructura del Proyecto
 El proyecto está compuesto por las siguientes clases:
 
